@@ -1,0 +1,29 @@
+.DisplayQuote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.character-quote {
+    font-size: 28px;
+    padding: 3rem 0rem;
+    font-style: italic;
+    
+
+}
+.character-picture {
+    width: 200px;
+    margin-bottom: 5rem;
+    
+}
+
+
+.character-name {
+    font-family: lato;
+    font-size: 32px;
+    padding: 2rem 0rem;
+    color: red;
+
+}
